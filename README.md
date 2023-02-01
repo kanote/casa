@@ -22,7 +22,7 @@ http://192.168.1.102:9981/stream/channelid/92101847?profile=pass
 #EXTINF:-1 logo="http://192.168.1.102:9981/imagecache/228" tvg-id="df95587d725674fe02f321285ca8bed0",BTV 1
 http://192.168.1.102:9981/stream/channelid/2102957535?profile=pass
 #EXTINF:-1 logo="http://192.168.1.102:9981/imagecache/76" tvg-id="a20c3f1478e61522ad41617e56e5ecf6",BTV 1 HD
-http://192.168.1.102:9981/stream/channelid/339676322?profile=pass
+http://kanote:canotewert@192.168.1.102:9981/stream/channelid/339676322?profile=pass
 #EXTINF:-1 logo="http://192.168.1.102:9981/imagecache/144" tvg-id="8f585d09a9f2f4fd9f9e840b29ec1262",Canal de Teste
 http://192.168.1.102:9981/stream/channelid/157112463?profile=pass
 #EXTINF:-1 logo="http://192.168.1.102:9981/imagecache/146" tvg-id="766e18ccd265b8e1cecf20edd4776b38",Canal de Teste
