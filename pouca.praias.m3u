@@ -1,20 +1,29 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Calada
 https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Lourenço
 https://video-auth1.iol.pt/beachcam/saolourenco/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ribeira D'Ilhas
 https://video-auth1.iol.pt/beachcam/ribeiradilhas/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ericeira
 https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Matadouro + SkatePark
 https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia dos Pescadores
 https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ericeira - Praia do Sul
 https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Lizandro
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Maçãs
 https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Pequena
