@@ -26,99 +26,147 @@ https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Maçãs
 https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Pequena
 https://video-auth1.iol.pt/beachcam/bcpraiapequena/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Grande - Norte
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Norte
 https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Cresmina
 https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Baía de Cascais
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Conceição e Duquesa
 https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Moitas
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Tamariz
 https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São João do Estoril
 https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro do Estoril
 http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Avencas
 https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Parede
 https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos
 https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos - Calhau
 https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torre
 https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santo Amaro
 https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Paço de Arcos
 https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Caxias
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - S. João
 https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - CDS Norte
 https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - CDS Sul
 https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Praia Nova
 https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Riviera
 https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Cabana do Pescador
 https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Fonte da Telha
 https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia do Norte
 https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia do Norte panorâmica
 https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia da Vila
 https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Porto de Abrigo
 https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Arelho
 https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche - Lagide
 https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche - Supertubos
 https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Areia Branca
 https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia de Santa Rita
 https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz
 https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz - Praia Azul
 https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lagoa de Albufeira
 https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Meco
 https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Bicas
 https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Sesimbra
 https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Portinho da Arrábida
 https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Albarquel
 https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Troia
 https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Comporta
 https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Carvalhal
 https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
